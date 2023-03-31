@@ -5,7 +5,14 @@ body {
 h1 {
   text-align: center;
   color: #099294;
+  font-family: Helvetica;
 }
+header {
+  background-color: #333333;
+  font-weight: bold;
+}
+
+  
 
   
 
